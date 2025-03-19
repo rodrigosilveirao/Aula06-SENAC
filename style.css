@@ -1,0 +1,30 @@
+body{
+    background-color: dodgerblue;
+}
+.container {
+    margin: 0 auto;
+    background-color: white;
+    width: 90%;
+    height: 850px;
+    border-radius: 10px;
+}
+
+
+div#align{
+    height: 500px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+
+.col30{
+    width: 30%;
+}
+
+.col70{
+    width: 70%;
+}
+
+#row{
+    display: flex;
+}
